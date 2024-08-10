@@ -1,2 +1,3 @@
-test.sqlite-shm
-test.sqlite-wal
+*.sqlite-shm
+*.sqlite-wal
+database.sqlite
